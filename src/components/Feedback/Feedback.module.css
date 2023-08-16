@@ -1,0 +1,20 @@
+.buttons{
+  cursor: pointer;
+  border-radius: 10%;
+  margin-right: 10px;
+  border: 1px solid grey;
+  outline: none;
+  width: 70px;
+  height: 30px;
+  font-size: medium;
+  font-weight: bold;
+   ;
+  
+
+  
+}
+.buttons:hover{
+  background-color: blue;
+  color: white;
+  transform: scale(1.3);
+}
